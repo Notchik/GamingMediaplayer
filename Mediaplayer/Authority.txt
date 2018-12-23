@@ -1,0 +1,10 @@
+Developed by Roman Kushnerenko
+----------------------------------------------------------------------------
+Copyright Notchik
+----------------------------------------------------------------------------
+Program was developted as a course project.
+Belarussian State University of informatics and radioelectronics.
+Faculty of Computer Systems and Networks.
+Electronic computers department.
+Designing programs and programming languages.
+----------------------------------------------------------------------------

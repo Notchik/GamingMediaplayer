@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icons/Open.png</file>
+        <file>icons/list.png</file>
+        <file>icons/pause_green.png</file>
+        <file>icons/play_green_controls.png</file>
+        <file>icons/refresh_reload_arrow_sync-512.png</file>
+        <file>icons/stop_green.png</file>
+        <file>icons/close_green.png</file>
+        <file>icons/512px-Volume_up_font_awesome.svg.png</file>
+        <file>icons/muted.png</file>
+        <file>icons/2817-200.png</file>
+        <file>icons/img_1900.png</file>
+    </qresource>
+</RCC>
